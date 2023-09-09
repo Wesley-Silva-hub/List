@@ -2,4 +2,6 @@
 
 ## Modelo Entidade-Relacionamento
 
-<img src="/home/josewesley/projetos/List/images/" width="200" />
+ <div align="center">
+ <img src="/home/josewesley/projetos/List/images/" width="200" />
+</div>
